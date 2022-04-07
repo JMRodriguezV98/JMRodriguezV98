@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🔭 I'm multimedia engineer and 🌱 I’m currently learning in AcademiaGeek JavaScript, HTML, CSS and React
--- Link GitLab https://gitlab.com/maurodvi
+- **Link GitLab** https://gitlab.com/maurodvi
+- Cards *Repo GitLab* https://firscardscss.netlify.app/
 - 😄 https://bright-dieffenbachia-f91662.netlify.app
 <!--
 **JMRodriguezV98/JMRodriguezV98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
