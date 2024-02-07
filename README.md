@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/javier-mauricio-rodriguez-desarrollador-frontend/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jmauriciorodriguez-desarrollador/" height="30" width="40" /></a>
 <div>
-  <a src='https://icons8.com/icon/qyRpAggnV0zH/gmail'></a>
+  <a src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"></a>
   <span>jmauricio.rodriguezv@gmail.com</span>
 </div>
 </p>
